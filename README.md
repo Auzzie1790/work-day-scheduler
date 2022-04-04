@@ -3,6 +3,9 @@
 ## How to use 
 Click on the box to the corasponding hour you want to add a task to. Once the task has been added click the save button on the right. 
 
+## Website Link
+https://auzzie1790.github.io/work-day-scheduler/
+
 ## Color Key
 Grey = Past
 Red = Current
