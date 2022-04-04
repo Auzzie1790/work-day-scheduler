@@ -8,4 +8,6 @@ Grey = Past
 Red = Current
 Green = Future
 
-![Website Picture](assets/images/Screen Shot 2022-04-03 at 3.02.29 PM.png)
+![Screen Shot 2022-04-03 at 3 02 29 PM](https://user-images.githubusercontent.com/98334410/161467408-018d7001-4fe4-4928-a400-27e2d831c319.png)
+
+## Created by Austin Merrick Leaman
